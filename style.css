@@ -16,6 +16,7 @@ body {
   background-color: hsl(0, 0%, 100%);
   margin: 85px auto;
   border-radius: 15px;
+  box-shadow: 4px 10px 99px 8px rgba(0, 0, 0, 0.1);
 }
 /*Content box end*/
 /*QR code*/
@@ -55,5 +56,6 @@ h1 {
     background-color: hsl(0, 0%, 100%);
     margin: 150px auto;
     border-radius: 15px;
+    box-shadow: 4px 10px 99px 8px rgba(0, 0, 0, 0.1);
   }
 }
