@@ -48,3 +48,12 @@ h1 {
   color: hsl(218, 44%, 22%);
 }
 /*Text end*/
+@media (min-width: 375px) {
+  .maincontentbox {
+    width: 320px;
+    height: 500px;
+    background-color: hsl(0, 0%, 100%);
+    margin: 150px auto;
+    border-radius: 10px;
+  }
+}
